@@ -1,3 +1,3 @@
 # Proz-talentocloud
 
-Exercícios realizados no curso da Pro
+Exercícios realizados no curso da Proz
